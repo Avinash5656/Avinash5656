@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Avinash
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning Full Stack Development
 - 📫 How to reach me :- yearasiavinash@gmail.com
 
 <!---
